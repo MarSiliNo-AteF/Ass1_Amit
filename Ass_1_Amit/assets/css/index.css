@@ -1,0 +1,34 @@
+nav {
+    height: 50px;
+    background-color: #10cab7;
+    padding: 0;
+    margin-bottom: 10px;
+    border: 0px;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+
+    
+}
+nav .title {
+    padding-top: 10px;
+    }
+
+    .one {
+        width: 45%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    .image {
+        height: 200px;
+        width: 200px;
+    }
+    .info {
+        padding-left: 20px;
+    }
+   
